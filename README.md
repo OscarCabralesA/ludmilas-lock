@@ -1,2 +1,2 @@
 # ludmillas-lock
-An original visual novel from Tulipo Studios
+An original visual novel by Tulipo Studios
