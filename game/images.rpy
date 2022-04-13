@@ -1,0 +1,1 @@
+image test = Image("chars/Alexis_nor.png")

@@ -5,7 +5,6 @@
 
 define e = Character("Eileen")
 
-
 # The game starts here.
 
 label start:
@@ -20,7 +19,10 @@ label start:
     # replace it by adding a file named "eileen happy.png" to the images
     # directory.
 
-    show eileen happy
+    show test at center:
+        zoom 0.075
+        yalign 0.5
+       
 
     # These display lines of dialogue.
 
